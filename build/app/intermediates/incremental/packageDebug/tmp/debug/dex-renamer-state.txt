@@ -1,4 +1,4 @@
-#Thu Oct 12 18:20:44 IST 2023
+#Sat Oct 14 23:46:50 IST 2023
 base.0=/Users/saurabh/development/Courses/AcadeMind/meals/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
